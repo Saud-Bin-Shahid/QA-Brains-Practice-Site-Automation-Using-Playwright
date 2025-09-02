@@ -5,3 +5,15 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Playwright reports
+allure-report/
+allure-results/
+
+# Node.js dependencies
+node_modules/
+
+# Package files
+package-lock.json
+package.json
+
